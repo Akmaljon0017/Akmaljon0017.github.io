@@ -1,0 +1,27 @@
+h1{
+	font-family: verdana;
+	font-size:50pt;
+	font-color: solid black;
+	text-align:top center;
+    border: 5px ridge red;
+}
+p{
+	background-color:grey;
+	font-family:Georgia;
+	font-size:25pt;
+	font-color:solid black;
+	text-align:left;
+    
+
+}
+h2{text-decoration: underline;
+
+
+}
+span{
+	color: #0000ff;
+}
+img{
+	height: 250px;
+	width: 250px;
+}
